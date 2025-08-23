@@ -1,0 +1,8 @@
+to open our project from github to vs code:- use git clone *link of our project(which is given on github->project folder->code->https url->copy)*
+to know status of our project:- use git status
+if we modify in file it will shown M i.e.modified
+to make changes there are 2 steps i.e. add and commit
+there are 4 status:- untracked=new files that doesn't yet track
+                    modified=changed
+                    staged=file is ready to be committed
+                    unmodified=unchanged
